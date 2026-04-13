@@ -1,0 +1,50 @@
+body {
+
+    background-color: #75ac72;
+    background-position: right;
+
+}
+
+P {
+    font-size: 32px;
+    text-align: center;
+    background-color: #dfd7d7;
+}
+
+h1 {
+    background-color: tomato;
+}
+
+nav {
+
+    background-color: white;
+}
+
+main {
+
+    background-color: white;
+}
+footer {
+
+    background-color: white;
+}
+
+div {
+    border: 5px;
+    border-color: #dfd7d7;
+    margin: 200px;
+    height: 20px;
+  
+    
+}
+
+img {
+
+    border: 10px;
+    height: 200px;
+    background-size: contain;
+    background-position: center 100px;
+
+
+
+}
